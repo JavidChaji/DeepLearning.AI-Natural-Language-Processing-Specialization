@@ -5,7 +5,7 @@ Natural Language Processing Specialization Course
 
 - [ ] Natural Language Processing Specialization 
 	- [ ] Natural Language Processing with Classification and Vector Spaces
-		- [ ] Week 1 : Sentiment Analysis with Logistic Regression
+		- [ ] **Week 1** : Sentiment Analysis with Logistic Regression
 			- Lecture: Logistic Regression
 				- [ ] Video : Welcome to the NLP Specialization
 				- [ ] Video : Welcome to course 1
@@ -46,7 +46,7 @@ Natural Language Processing Specialization Course
 				- [ ] Programming Assignment : Logistic Regression
 			- Heroes of NLP: Chris Manning (Optional)
 				- [ ] Video : Andrew Ng with Chris Manning
-		- [ ] Week 2 : Sentiment Analysis with Naïve Bayes
+		- [ ] **Week 2** : Sentiment Analysis with Naïve Bayes
 			- Lecture: Naive Bayes
 				- [ ] Video : Week Introduction
 				- [ ] Video : Probability and Bayes’ Rule
@@ -79,7 +79,7 @@ Natural Language Processing Specialization Course
 				- [ ] Naive Bayes
 			- Assignment: Naive Bayes
 				- [ ] Programming Assignment : Naive Bayes
-		- [ ] Week 3 : Vector Space Models
+		- [ ] **Week 3** : Vector Space Models
 			- [ ] Lecture: Vector Space Models
 				- [ ] Video : Week Introduction
 				- [ ] Video : Vector Space Models
@@ -109,7 +109,7 @@ Natural Language Processing Specialization Course
 				- [ ] Practice Quiz : Vector Space Models
 			- [ ] Assignment: Vector Space Models
 				- [ ] Programming Assignment : Assignment: Vector Space Models
-		- [ ] Week 4 : Machine Translation and Document Search
+		- [ ] **Week 4** : Machine Translation and Document Search
 			- [ ] Lecture: Machine Translation
 				- [ ] Video : Week Introduction
 				- [ ] Video : Overview
