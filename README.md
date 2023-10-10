@@ -2,12 +2,12 @@
 ## Natural Language Processing with Classification and Vector Spaces
 ### Week 1 : Sentiment Analysis with Logistic Regression
 #### Lecture: Logistic Regression
-- [ ] Video : Welcome to the NLP Specialization
-- [ ] Video : Welcome to course 1
-- [ ] Reading : Acknowledgment - Ken Church
-- [ ] Video : Week Introduction
-- [ ] Video : Supervised ML & Sentiment Analysis
-- [ ] Reading : Supervised ML & Sentiment Analysis
+- [x] Video : Welcome to the NLP Specialization
+- [x] Video : Welcome to course 1
+- [x] Reading : Acknowledgment - Ken Church
+- [x] Video : Week Introduction
+- [x] Video : Supervised ML & Sentiment Analysis
+- [x] Reading : Supervised ML & Sentiment Analysis
 - [ ] Video : Vocabulary & Feature Extraction
 - [ ] Reading : Vocabulary & Feature Extraction
 - [ ] Video : Negative and Positive Frequencies
