@@ -8,9 +8,9 @@
 - [x] Video : Week Introduction
 - [x] Video : Supervised ML & Sentiment Analysis
 - [x] Reading : Supervised ML & Sentiment Analysis
-- [ ] Video : Vocabulary & Feature Extraction
-- [ ] Reading : Vocabulary & Feature Extraction
-- [ ] Video : Negative and Positive Frequencies
+- [x] Video : Vocabulary & Feature Extraction
+- [x] Reading : Vocabulary & Feature Extraction
+- [x] Video : Negative and Positive Frequencies
 - [ ] Video : Feature Extraction with Frequencies
 - [ ] Reading : Feature Extraction with Frequencies
 - [ ] Video : Preprocessing
