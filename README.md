@@ -11,10 +11,10 @@
 - [x] Video : Vocabulary & Feature Extraction
 - [x] Reading : Vocabulary & Feature Extraction
 - [x] Video : Negative and Positive Frequencies
-- [ ] Video : Feature Extraction with Frequencies
-- [ ] Reading : Feature Extraction with Frequencies
-- [ ] Video : Preprocessing
-- [ ] Reading : Preprocessing
+- [x] Video : Feature Extraction with Frequencies
+- [x] Reading : Feature Extraction with Frequencies
+- [x] Video : Preprocessing
+- [x] Reading : Preprocessing
 - [ ] Lab : Natural Language preprocessing
 - [ ] Video : Putting it All Together
 - [ ] Reading : Putting it all together
