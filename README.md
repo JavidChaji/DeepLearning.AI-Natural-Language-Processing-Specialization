@@ -16,8 +16,8 @@
 - [x] Video : Preprocessing
 - [x] Reading : Preprocessing
 - [ ] Lab : Natural Language preprocessing
-- [ ] Video : Putting it All Together
-- [ ] Reading : Putting it all together
+- [x] Video : Putting it All Together
+- [x] Reading : Putting it all together
 - [ ] Lab : Visualizing word frequencies
 - [ ] Video : Logistic Regression Overview
 - [ ] Reading : Logistic Regression Overview
