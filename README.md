@@ -19,13 +19,13 @@
 - [x] Video : Putting it All Together
 - [x] Reading : Putting it all together
 - [ ] Lab : Visualizing word frequencies
-- [ ] Video : Logistic Regression Overview
-- [ ] Reading : Logistic Regression Overview
-- [ ] Video : Logistic Regression: Training
-- [ ] Reading : Logistic Regression: Training
+- [x] Video : Logistic Regression Overview
+- [x] Reading : Logistic Regression Overview
+- [x] Video : Logistic Regression: Training
+- [x] Reading : Logistic Regression: Training
 - [ ] Lab : Visualizing tweets and Logistic Regression models
-- [ ] Video : Logistic Regression: Testing
-- [ ] Reading : Logistic Regression: Testing
+- [x] Video : Logistic Regression: Testing
+- [x] Reading : Logistic Regression: Testing
 - [ ] Video : Logistic Regression: Cost Function
 - [ ] Reading : Optional Logistic Regression: Cost Function
 - [ ] Video : Week Conclusion
