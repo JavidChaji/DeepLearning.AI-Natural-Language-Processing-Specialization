@@ -26,7 +26,7 @@
 - [ ] Lab : Visualizing tweets and Logistic Regression models
 - [x] Video : Logistic Regression: Testing
 - [x] Reading : Logistic Regression: Testing
-- [ ] Video : Logistic Regression: Cost Function
+- [x] Video : Logistic Regression: Cost Function
 - [ ] Reading : Optional Logistic Regression: Cost Function
 - [ ] Video : Week Conclusion
 - [ ] Reading : Optional Logistic Regression: Gradient
