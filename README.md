@@ -27,13 +27,13 @@
 - [x] Video : Logistic Regression: Testing
 - [x] Reading : Logistic Regression: Testing
 - [x] Video : Logistic Regression: Cost Function
-- [ ] Reading : Optional Logistic Regression: Cost Function
-- [ ] Video : Week Conclusion
-- [ ] Reading : Optional Logistic Regression: Gradient
-- [ ] Ungraded App Item : Intake Survey)
-- [ ] Have questions, issues or ideas? Join our Community!
+- [x] Reading : Optional Logistic Regression: Cost Function
+- [x] Video : Week Conclusion
+- [x] Reading : Optional Logistic Regression: Gradient
+- [x] Ungraded App Item : Intake Survey)
+- [x] Have questions, issues or ideas? Join our Community!
 #### Lecture Notes (Optional)
-- [ ] Reading : Lecture Notes W1
+- [x] Reading : Lecture Notes W1
 #### Practice Quiz
 - [ ] Practice Quiz : Logistic Regression
 #### Assignment: Sentiment Analysis with Logistic Regression
