@@ -35,7 +35,7 @@
 #### Lecture Notes (Optional)
 - [x] Reading : Lecture Notes W1
 #### Practice Quiz
-- [ ] Practice Quiz : Logistic Regression
+- [x] Practice Quiz : Logistic Regression
 #### Assignment: Sentiment Analysis with Logistic Regression
 - [ ] Reading (Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace
 - [ ] Programming Assignment : Logistic Regression
