@@ -37,13 +37,13 @@
 #### Practice Quiz
 - [x] Practice Quiz : Logistic Regression
 #### Assignment: Sentiment Analysis with Logistic Regression
-- [ ] Reading (Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace
+- [x] Reading : (Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace
 - [ ] Programming Assignment : Logistic Regression
 #### Heroes of NLP: Chris Manning (Optional)
-- [ ] Video : Andrew Ng with Chris Manning
+- [x] Video : Andrew Ng with Chris Manning
 ### Week 2 : Sentiment Analysis with Naïve Bayes
 #### Lecture: Naive Bayes
-- [ ] Video : Week Introduction
+- [x] Video : Week Introduction
 - [ ] Video : Probability and Bayes’ Rule
 - [ ] Reading : Probability and Bayes’ Rule
 - [ ] Video : Bayes’ Rule
