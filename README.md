@@ -44,10 +44,10 @@
 ### Week 2 : Sentiment Analysis with Naïve Bayes
 #### Lecture: Naive Bayes
 - [x] Video : Week Introduction
-- [ ] Video : Probability and Bayes’ Rule
-- [ ] Reading : Probability and Bayes’ Rule
-- [ ] Video : Bayes’ Rule
-- [ ] Reading : Bayes' Rule
+- [x] Video : Probability and Bayes’ Rule
+- [x] Reading : Probability and Bayes’ Rule
+- [x] Video : Bayes’ Rule
+- [x] Reading : Bayes' Rule
 - [ ] Video : Naïve Bayes Introduction
 - [ ] Reading : Naive Bayes Introduction
 - [ ] Video : Laplacian Smoothing
