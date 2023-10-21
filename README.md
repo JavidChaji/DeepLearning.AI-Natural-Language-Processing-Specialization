@@ -48,8 +48,8 @@
 - [x] Reading : Probability and Bayes’ Rule
 - [x] Video : Bayes’ Rule
 - [x] Reading : Bayes' Rule
-- [ ] Video : Naïve Bayes Introduction
-- [ ] Reading : Naive Bayes Introduction
+- [x] Video : Naïve Bayes Introduction
+- [x] Reading : Naive Bayes Introduction
 - [ ] Video : Laplacian Smoothing
 - [ ] Reading : Laplacian Smoothing
 - [ ] Video : Log Likelihood, Part 1
