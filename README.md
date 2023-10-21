@@ -50,10 +50,10 @@
 - [x] Reading : Bayes' Rule
 - [x] Video : Naïve Bayes Introduction
 - [x] Reading : Naive Bayes Introduction
-- [ ] Video : Laplacian Smoothing
-- [ ] Reading : Laplacian Smoothing
-- [ ] Video : Log Likelihood, Part 1
-- [ ] Reading : Log Likelihood, Part 1
+- [x] Video : Laplacian Smoothing
+- [x] Reading : Laplacian Smoothing
+- [x] Video : Log Likelihood, Part 1
+- [x] Reading : Log Likelihood, Part 1
 - [ ] Video : Log Likelihood, Part 2
 - [ ] Reading : Log Likelihood Part 2
 - [ ] Video : Training Naïve Bayes
