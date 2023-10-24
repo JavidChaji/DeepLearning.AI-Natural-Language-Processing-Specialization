@@ -54,8 +54,8 @@
 - [x] Reading : Laplacian Smoothing
 - [x] Video : Log Likelihood, Part 1
 - [x] Reading : Log Likelihood, Part 1
-- [ ] Video : Log Likelihood, Part 2
-- [ ] Reading : Log Likelihood Part 2
+- [x] Video : Log Likelihood, Part 2
+- [x] Reading : Log Likelihood Part 2
 - [ ] Video : Training Naïve Bayes
 - [ ] Reading : Training naïve Bayes
 - [ ] Lab : Visualizing likelihoods and confidence ellipses
