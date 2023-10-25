@@ -56,20 +56,20 @@
 - [x] Reading : Log Likelihood, Part 1
 - [x] Video : Log Likelihood, Part 2
 - [x] Reading : Log Likelihood Part 2
-- [ ] Video : Training Naïve Bayes
-- [ ] Reading : Training naïve Bayes
+- [x] Video : Training Naïve Bayes
+- [x] Reading : Training naïve Bayes
 - [ ] Lab : Visualizing likelihoods and confidence ellipses
-- [ ] Video : Testing Naïve Bayes
-- [ ] Reading : Testing naïve Bayes
-- [ ] Video : Applications of Naïve Bayes
-- [ ] Reading : Applications of Naive Bayes
-- [ ] Video : Naïve Bayes Assumptions
-- [ ] Reading : Naïve Bayes Assumptions
-- [ ] Video : Error Analysis
-- [ ] Reading : Error Analysis
-- [ ] Video : Week Conclusion
+- [x] Video : Testing Naïve Bayes
+- [x] Reading : Testing naïve Bayes
+- [x] Video : Applications of Naïve Bayes
+- [x] Reading : Applications of Naive Bayes
+- [x] Video : Naïve Bayes Assumptions
+- [x] Reading : Naïve Bayes Assumptions
+- [x] Video : Error Analysis
+- [x] Reading : Error Analysis
+- [x] Video : Week Conclusion
 #### Lecture Notes (Optional)
-- [ ] Lecture Notes W2
+- [x] Lecture Notes W2
 #### Practice Quiz
 - [ ] Naive Bayes
 #### Assignment: Naive Bayes
