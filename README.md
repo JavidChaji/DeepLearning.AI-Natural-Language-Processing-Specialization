@@ -71,12 +71,12 @@
 #### Lecture Notes (Optional)
 - [x] Lecture Notes W2
 #### Practice Quiz
-- [ ] Naive Bayes
+- [x] Naive Bayes
 #### Assignment: Naive Bayes
 - [ ] Programming Assignment : Naive Bayes
 ### Week 3 : Vector Space Models
 #### Lecture: Vector Space Models
-- [ ] Video : Week Introduction
+- [x] Video : Week Introduction
 - [ ] Video : Vector Space Models
 - [ ] Reading : Vector Space Models
 - [ ] Video : Word by Word and Word by Doc.
