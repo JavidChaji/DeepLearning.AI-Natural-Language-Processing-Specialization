@@ -77,10 +77,10 @@
 ### Week 3 : Vector Space Models
 #### Lecture: Vector Space Models
 - [x] Video : Week Introduction
-- [ ] Video : Vector Space Models
-- [ ] Reading : Vector Space Models
-- [ ] Video : Word by Word and Word by Doc.
-- [ ] Reading : Word by Word and Word by Doc.
+- [x] Video : Vector Space Models
+- [x] Reading : Vector Space Models
+- [x] Video : Word by Word and Word by Doc.
+- [x] Reading : Word by Word and Word by Doc.
 - [ ] Lab : Linear algebra in Python with Numpy
 - [ ] Video : Euclidean Distance
 - [ ] Reading : Euclidian Distance
