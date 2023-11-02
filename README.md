@@ -82,10 +82,10 @@
 - [x] Video : Word by Word and Word by Doc.
 - [x] Reading : Word by Word and Word by Doc.
 - [ ] Lab : Linear algebra in Python with Numpy
-- [ ] Video : Euclidean Distance
-- [ ] Reading : Euclidian Distance
-- [ ] Video : Cosine Similarity: Intuition
-- [ ] Reading : Cosine Similarity: Intuition
+- [x] Video : Euclidean Distance
+- [x] Reading : Euclidian Distance
+- [x] Video : Cosine Similarity: Intuition
+- [x] Reading : Cosine Similarity: Intuition
 - [ ] Video : Cosine Similarity
 - [ ] Reading : Cosine Similarity
 - [ ] Video : Manipulating Words in Vector Spaces
