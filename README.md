@@ -86,8 +86,8 @@
 - [x] Reading : Euclidian Distance
 - [x] Video : Cosine Similarity: Intuition
 - [x] Reading : Cosine Similarity: Intuition
-- [ ] Video : Cosine Similarity
-- [ ] Reading : Cosine Similarity
+- [x] Video : Cosine Similarity
+- [x] Reading : Cosine Similarity
 - [ ] Video : Manipulating Words in Vector Spaces
 - [ ] Reading : Manipulating Words in Vector Spaces
 - [ ] Lab : Manipulating word embeddings
