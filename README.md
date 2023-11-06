@@ -88,26 +88,26 @@
 - [x] Reading : Cosine Similarity: Intuition
 - [x] Video : Cosine Similarity
 - [x] Reading : Cosine Similarity
-- [ ] Video : Manipulating Words in Vector Spaces
-- [ ] Reading : Manipulating Words in Vector Spaces
+- [x] Video : Manipulating Words in Vector Spaces
+- [x] Reading : Manipulating Words in Vector Spaces
 - [ ] Lab : Manipulating word embeddings
-- [ ] Video : Visualization and PCA
-- [ ] Reading : Visualization and PCA
-- [ ] Video : PCA Algorithm
-- [ ] Reading : PCA algorithm
+- [x] Video : Visualization and PCA
+- [x] Reading : Visualization and PCA
+- [x] Video : PCA Algorithm
+- [x] Reading : PCA algorithm
 - [ ] Lab : Another explanation about PCA
-- [ ] Reading : The Rotation Matrix (Optional Reading)
-- [ ] Video : Week Conclusion
+- [x] Reading : The Rotation Matrix (Optional Reading)
+- [x] Video : Week Conclusion
 #### Lecture Notes (Optional)
-- [ ] Reading : Lecture Notes W3
+- [x] Reading : Lecture Notes W3
 #### Practice Quiz
-- [ ] Practice Quiz : Vector Space Models
+- [x] Practice Quiz : Vector Space Models
 #### Assignment: Vector Space Models
 - [ ] Programming Assignment : Assignment: Vector Space Models
 ### Week 4 : Machine Translation and Document Search
 #### Lecture: Machine Translation
-- [ ] Video : Week Introduction
-- [ ] Video : Overview
+- [x] Video : Week Introduction
+- [x] Video : Overview
 - [ ] Video : Transforming word vectors
 - [ ] Reading : Transforming word vectors
 - [ ] Lab : Rotation matrices in R2
