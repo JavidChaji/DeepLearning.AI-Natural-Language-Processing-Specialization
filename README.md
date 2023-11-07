@@ -108,8 +108,8 @@
 #### Lecture: Machine Translation
 - [x] Video : Week Introduction
 - [x] Video : Overview
-- [ ] Video : Transforming word vectors
-- [ ] Reading : Transforming word vectors
+- [x] Video : Transforming word vectors
+- [x] Reading : Transforming word vectors
 - [ ] Lab : Rotation matrices in R2
 - [ ] Video : K-nearest neighbors
 - [ ] Reading : K-nearest neighbors
