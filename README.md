@@ -111,8 +111,8 @@
 - [x] Video : Transforming word vectors
 - [x] Reading : Transforming word vectors
 - [ ] Lab : Rotation matrices in R2
-- [ ] Video : K-nearest neighbors
-- [ ] Reading : K-nearest neighbors
+- [x] Video : K-nearest neighbors
+- [x] Reading : K-nearest neighbors
 - [ ] Video : Hash tables and hash functions
 - [ ] Reading : Hash tables and hash functions
 - [ ] Video : Locality sensitive hashing
