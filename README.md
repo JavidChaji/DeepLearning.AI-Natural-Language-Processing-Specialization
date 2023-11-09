@@ -113,8 +113,8 @@
 - [ ] Lab : Rotation matrices in R2
 - [x] Video : K-nearest neighbors
 - [x] Reading : K-nearest neighbors
-- [ ] Video : Hash tables and hash functions
-- [ ] Reading : Hash tables and hash functions
+- [x] Video : Hash tables and hash functions
+- [x] Reading : Hash tables and hash functions
 - [ ] Video : Locality sensitive hashing
 - [ ] Reading : Locality sensitive hashing
 - [ ] Video : Multiple Planes
