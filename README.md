@@ -115,10 +115,10 @@
 - [x] Reading : K-nearest neighbors
 - [x] Video : Hash tables and hash functions
 - [x] Reading : Hash tables and hash functions
-- [ ] Video : Locality sensitive hashing
-- [ ] Reading : Locality sensitive hashing
-- [ ] Video : Multiple Planes
-- [ ] Reading : Multiple Planes
+- [x] Video : Locality sensitive hashing
+- [x] Reading : Locality sensitive hashing
+- [x] Video : Multiple Planes
+- [x] Reading : Multiple Planes
 - [ ] Lab : Hash tables
 - [ ] Video : Approximate nearest neighbors
 - [ ] Reading : Approximate nearest neighbors
