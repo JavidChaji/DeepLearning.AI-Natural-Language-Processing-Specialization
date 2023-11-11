@@ -138,6 +138,10 @@
 - [x] Video : Andrew Ng with Kathleen McKeown
 ## Natural Language Processing with Probabilistic Models
 ### Week 1
+#### Lecture: Autocorrect and Minimum Edit Distance
+#### Lecture Notes (Optional)
+#### Quiz: Auto-correct and Minimum Edit Distance
+#### Assignment: Autocorrect
 ### Week 2
 ### Week 3
 ### Week 4
