@@ -120,22 +120,22 @@
 - [x] Video : Multiple Planes
 - [x] Reading : Multiple Planes
 - [ ] Lab : Hash tables
-- [ ] Video : Approximate nearest neighbors
-- [ ] Reading : Approximate nearest neighbors
-- [ ] Video : Searching documents
-- [ ] Reading : Searching documents
-- [ ] Video : Week Conclusion
+- [x] Video : Approximate nearest neighbors
+- [x] Reading : Approximate nearest neighbors
+- [x] Video : Searching documents
+- [x] Reading : Searching documents
+- [x] Video : Week Conclusion
 #### Lecture Notes (Optional)
-- [ ] Reading : Lecture Notes W4
+- [x] Reading : Lecture Notes W4
 #### Practice Quiz
 - [ ] Practice Quiz : Hashing and Machine Translation
 #### Assignment: Machine Translation
 - [ ] Programming Assignment : Word Translation
 #### Acknowledgments and Bibliography
-- [ ] Reading : Acknowledgements
-- [ ] Reading : Bibliography
+- [x] Reading : Acknowledgements
+- [x] Reading : Bibliography
 #### Heroes of NLP: Kathleen McKeown
-- [ ] Video : Andrew Ng with Kathleen McKeown
+- [x] Video : Andrew Ng with Kathleen McKeown
 ## Natural Language Processing with Probabilistic Models
 ### Week 1
 ### Week 2
