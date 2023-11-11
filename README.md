@@ -128,7 +128,7 @@
 #### Lecture Notes (Optional)
 - [x] Reading : Lecture Notes W4
 #### Practice Quiz
-- [ ] Practice Quiz : Hashing and Machine Translation
+- [x] Practice Quiz : Hashing and Machine Translation
 #### Assignment: Machine Translation
 - [ ] Programming Assignment : Word Translation
 #### Acknowledgments and Bibliography
