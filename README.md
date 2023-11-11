@@ -169,6 +169,39 @@
 - [ ] Reading : (Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace
 - [ ] Programming Assignment : Autocorrect
 ### Week 2
+#### Lecture: Part of Speech Tagging
+- [ ] Video : Week Introduction
+- [ ] Video : Part of Speech Tagging
+- [ ] Reading : Part of Speech Tagging
+- [ ] Lab : Lecture Notebook - Working with text files
+- [ ] Video : Markov Chains
+- [ ] Reading : Markov Chains
+- [ ] Video : Markov Chains and POS Tags
+- [ ] Reading : Markov Chains and POS Tags
+- [ ] Video : Hidden Markov Models
+- [ ] Reading : Hidden Markov Models
+- [ ] Video : Calculating Probabilities
+- [ ] Reading : Calculating Probabilities
+- [ ] Video : Populating the Transition Matrix
+- [ ] Reading : Populating the Transition Matrix
+- [ ] Video : Populating the Emission Matrix
+- [ ] Reading : Populating the Emission Matrix
+- [ ] Lab : Lecture Notebook - Working with tags and Numpy
+- [ ] Video : The Viterbi Algorithm
+- [ ] Reading : The Viterbi Algorithm
+- [ ] Video : Viterbi: Initialization
+- [ ] Reading : Viterbi: Initialization
+- [ ] Video : iterbi: Forward Pass
+- [ ] Reading : Viterbi: Forward Pass
+- [ ] Video : Viterbi: Backward Pass
+- [ ] Reading : Viterbi: Backward Pass
+- [ ] Video : Week Conclusion
+#### Lecture Notes (Optional)
+- [ ] Reading : Lecture Notes W2
+#### Practice Quiz
+- [ ] Practice Quiz : Part of Speech Tagging
+#### Assignment: Part of Speech Tagging
+- [ ] Programming Assignment : Part of Speech Tagging
 ### Week 3
 ### Week 4
 ## Natural Language Processing with Sequence Models
