@@ -139,9 +139,35 @@
 ## Natural Language Processing with Probabilistic Models
 ### Week 1
 #### Lecture: Autocorrect and Minimum Edit Distance
+- [x] Video : Intro to Course 2
+- [x] Video : Week Introduction
+- [ ] Video : Overview
+- [ ] Reading : Overview
+- [ ] Video : Autocorrect
+- [ ] Reading : Autocorrect
+- [ ] Video : Building the model
+- [ ] Reading : Building the model
+- [ ] Lab : Lecture notebook: Building the vocabulary
+- [ ] Video : Building the model II
+- [ ] Reading : Building the model II
+- [ ] Lab : Lecture notebook: Candidates from edits
+- [ ] Video : Minimum edit distance
+- [ ] Reading : Minimum edit distance
+- [ ] Video : Minimum edit distance algorithm
+- [ ] Reading : Minimum edit distance algorithm
+- [ ] Video : Minimum edit distance algorithm II
+- [ ] Reading : Minimum edit distance algorithm II
+- [ ] Video : Minimum edit distance algorithm III
+- [ ] Reading : Minimum edit distance III
+- [ ] Video : Week Conclusion
+- [ ] Ungraded App Item : [IMPORTANT] Have questions, issues or ideas? Join our Community!
 #### Lecture Notes (Optional)
+- [ ] Reading : Lecture Notes W1
 #### Quiz: Auto-correct and Minimum Edit Distance
+- [ ] Practice Quiz : Auto-correct and Minimum Edit Distance
 #### Assignment: Autocorrect
+- [ ] Reading : (Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace
+- [ ] Programming Assignment : Autocorrect
 ### Week 2
 ### Week 3
 ### Week 4
