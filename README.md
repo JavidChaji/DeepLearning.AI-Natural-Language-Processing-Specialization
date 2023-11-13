@@ -1,4 +1,7 @@
-# Natural Language Processing Specialization 
+# Natural Language Processing Specialization
+
+
+
 ## Natural Language Processing with Classification and Vector Spaces
 ### Week 1 : Sentiment Analysis with Logistic Regression
 #### Lecture: Logistic Regression
@@ -136,6 +139,9 @@
 - [x] Reading : Bibliography
 #### Heroes of NLP: Kathleen McKeown
 - [x] Video : Andrew Ng with Kathleen McKeown
+
+
+
 ## Natural Language Processing with Probabilistic Models
 ### Week 1
 #### Lecture: Autocorrect and Minimum Edit Distance
@@ -234,11 +240,75 @@
 #### Assignment: Autocomplete
 - [ ] Programming Assignment : Autocomplete
 ### Week 4
+#### Lecture: Word Embeddings
+- [ ] Video : Week Introduction
+- [ ] Video : Overview
+- [ ] Reading : Overview
+- [ ] Video : Basic Word Representations
+- [ ] Reading : Basic Word Representations
+- [ ] Video : Word Embeddings
+- [ ] Reading : Word Embeddings
+- [ ] Video : How to Create Word Embeddings
+- [ ] Reading : How to Create Word Embeddings?
+- [ ] Video : Word Embedding Methods
+- [ ] Reading : Word Embedding Methods
+- [ ] Video : Continuous Bag-of-Words Model
+- [ ] Reading : Continuous Bag-of-Words Model
+- [ ] Video : Cleaning and Tokenization
+- [ ] Reading : Cleaning and Tokenization
+- [ ] Video : Sliding Window of Words in Python
+- [ ] Reading : Sliding Window of Words in Python
+- [ ] Video : Transforming Words into Vectors
+- [ ] Reading : Transforming Words into Vectors
+- [ ] Lab : Lecture Notebook - Data Preparation
+- [ ] Video : Architecture of the CBOW Model
+- [ ] Reading : Architecture of the CBOW Model
+- [ ] Video : Architecture of the CBOW Model: Dimensions
+- [ ] Reading : Architecture of the CBOW Model: Dimensions
+- [ ] Video : Architecture of the CBOW Model: Dimensions 2
+- [ ] Reading : Architecture of the CBOW Model: Dimensions 2
+- [ ] Video : Architecture of the CBOW Model: Activation Functions
+- [ ] Reading : Architecture of the CBOW Model: Activation Functions
+- [ ] Lab : Lecture Notebook - Intro to CBOW model
+- [ ] Video : Training a CBOW Model: Cost Function
+- [ ] Reading : Training a CBOW Model: Cost Function
+- [ ] Video : Training a CBOW Model: Forward Propagation
+- [ ] Reading : Training a CBOW Model: Forward Propagation
+- [ ] Video : Training a CBOW Model: Backpropagation and Gradient Descent
+- [ ] Reading : Training a CBOW Model: Backpropagation and Gradient Descent
+- [ ] Lab : Lecture Notebook - Training the CBOW model
+- [ ] Video : Extracting Word Embedding Vectors
+- [ ] Reading : Extracting Word Embedding Vectors
+- [ ] Lab : Lecture Notebook - Word Embeddings
+- [ ] Video : Evaluating Word Embeddings: Intrinsic Evaluation
+- [ ] Reading : Evaluating Word Embeddings: Intrinsic Evaluation
+- [ ] Video : Evaluating Word Embeddings: Extrinsic Evaluation
+- [ ] Reading : Evaluating Word Embeddings: Extrinsic Evaluation
+- [ ] Lab : Lecture notebook: Word embeddings step by step
+- [ ] Video : Conclusion
+- [ ] Reading : Conclusion
+- [ ] Video : Week Conclusion
+#### Lecture Notes (Optional)
+- [ ] Reading : Lecture Notes W4
+#### Practice Quiz
+- [ ] Practice Quiz : Word Embeddings
+#### End of access to Lab Notebooks
+- [ ] Reading : [IMPORTANT] Reminder about end of access to Lab Notebooks
+#### Assignment: Word Embeddings
+- [ ] Programming Assignment : Word Embeddings
+#### Acknowledgments
+- [ ] Reading : Acknowledgments
+
+
+
 ## Natural Language Processing with Sequence Models
 ### Week 1
 ### Week 2
 ### Week 3
 ### Week 4
+
+
+
 ## Natural Language Processing with Attention Models
 ### Week 1
 ### Week 2
