@@ -203,6 +203,36 @@
 #### Assignment: Part of Speech Tagging
 - [ ] Programming Assignment : Part of Speech Tagging
 ### Week 3
+#### Lecture: Autocomplete
+- [ ] Video : Week Introduction
+- [ ] Video : N-Grams: Overview
+- [ ] Reading : N-Grams: Overview
+- [ ] Video : N-grams and Probabilities
+- [ ] Reading : N-grams and Probabilities
+- [ ] Video : Sequence Probabilities
+- [ ] Reading : Sequence Probabilities
+- [ ] Video : Starting and Ending Sentences
+- [ ] Reading : Starting and Ending Sentences
+- [ ] Lab : Lecture notebook: Corpus preprocessing for N-grams
+- [ ] Video : The N-gram Language Model
+- [ ] Reading : The N-gram Language Model
+- [ ] Video : Language Model Evaluation
+- [ ] Lab : Lecture notebook: Building the language model
+- [ ] Reading : Language Model Evaluation
+- [ ] Video : Out of Vocabulary Words
+- [ ] Reading : Out of Vocabulary Words
+- [ ] Video : Smoothing
+- [ ] Reading : Smoothing
+- [ ] Lab : Lecture notebook: Language model generalization
+- [ ] Video : Week Summary
+- [ ] Reading : Week Summary
+- [ ] Video : Week Conclusion
+#### Lecture Notes (Optional)
+- [ ] Reading : Lecture Notes W3
+#### Practice Quiz
+- [ ] Practice Quiz : Autocomplete
+#### Assignment: Autocomplete
+- [ ] Programming Assignment : Autocomplete
 ### Week 4
 ## Natural Language Processing with Sequence Models
 ### Week 1
