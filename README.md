@@ -147,10 +147,10 @@
 #### Lecture: Autocorrect and Minimum Edit Distance
 - [x] Video : Intro to Course 2
 - [x] Video : Week Introduction
-- [ ] Video : Overview
-- [ ] Reading : Overview
-- [ ] Video : Autocorrect
-- [ ] Reading : Autocorrect
+- [x] Video : Overview
+- [x] Reading : Overview
+- [x] Video : Autocorrect
+- [x] Reading : Autocorrect
 - [ ] Video : Building the model
 - [ ] Reading : Building the model
 - [ ] Lab : Lecture notebook: Building the vocabulary
