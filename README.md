@@ -151,8 +151,8 @@
 - [x] Reading : Overview
 - [x] Video : Autocorrect
 - [x] Reading : Autocorrect
-- [ ] Video : Building the model
-- [ ] Reading : Building the model
+- [x] Video : Building the model
+- [x] Reading : Building the model
 - [ ] Lab : Lecture notebook: Building the vocabulary
 - [ ] Video : Building the model II
 - [ ] Reading : Building the model II
