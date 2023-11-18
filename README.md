@@ -154,8 +154,8 @@
 - [x] Video : Building the model
 - [x] Reading : Building the model
 - [ ] Lab : Lecture notebook: Building the vocabulary
-- [ ] Video : Building the model II
-- [ ] Reading : Building the model II
+- [x] Video : Building the model II
+- [x] Reading : Building the model II
 - [ ] Lab : Lecture notebook: Candidates from edits
 - [ ] Video : Minimum edit distance
 - [ ] Reading : Minimum edit distance
