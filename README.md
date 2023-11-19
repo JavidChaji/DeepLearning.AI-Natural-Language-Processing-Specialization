@@ -157,8 +157,8 @@
 - [x] Video : Building the model II
 - [x] Reading : Building the model II
 - [ ] Lab : Lecture notebook: Candidates from edits
-- [ ] Video : Minimum edit distance
-- [ ] Reading : Minimum edit distance
+- [x] Video : Minimum edit distance
+- [x] Reading : Minimum edit distance
 - [ ] Video : Minimum edit distance algorithm
 - [ ] Reading : Minimum edit distance algorithm
 - [ ] Video : Minimum edit distance algorithm II
