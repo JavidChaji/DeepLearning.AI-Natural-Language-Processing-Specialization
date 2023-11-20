@@ -159,8 +159,8 @@
 - [ ] Lab : Lecture notebook: Candidates from edits
 - [x] Video : Minimum edit distance
 - [x] Reading : Minimum edit distance
-- [ ] Video : Minimum edit distance algorithm
-- [ ] Reading : Minimum edit distance algorithm
+- [x] Video : Minimum edit distance algorithm
+- [x] Reading : Minimum edit distance algorithm
 - [ ] Video : Minimum edit distance algorithm II
 - [ ] Reading : Minimum edit distance algorithm II
 - [ ] Video : Minimum edit distance algorithm III
