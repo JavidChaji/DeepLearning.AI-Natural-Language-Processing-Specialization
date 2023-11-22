@@ -165,8 +165,8 @@
 - [x] Reading : Minimum edit distance algorithm II
 - [x] Video : Minimum edit distance algorithm III
 - [x] Reading : Minimum edit distance III
-- [ ] Video : Week Conclusion
-- [ ] Ungraded App Item : [IMPORTANT] Have questions, issues or ideas? Join our Community!
+- [x] Video : Week Conclusion
+- [x] Ungraded App Item : [IMPORTANT] Have questions, issues or ideas? Join our Community!
 #### Lecture Notes (Optional)
 - [ ] Reading : Lecture Notes W1
 #### Quiz: Auto-correct and Minimum Edit Distance
