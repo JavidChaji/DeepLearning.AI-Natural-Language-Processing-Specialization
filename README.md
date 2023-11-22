@@ -161,8 +161,8 @@
 - [x] Reading : Minimum edit distance
 - [x] Video : Minimum edit distance algorithm
 - [x] Reading : Minimum edit distance algorithm
-- [ ] Video : Minimum edit distance algorithm II
-- [ ] Reading : Minimum edit distance algorithm II
+- [x] Video : Minimum edit distance algorithm II
+- [x] Reading : Minimum edit distance algorithm II
 - [ ] Video : Minimum edit distance algorithm III
 - [ ] Reading : Minimum edit distance III
 - [ ] Video : Week Conclusion
