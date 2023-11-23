@@ -168,9 +168,9 @@
 - [x] Video : Week Conclusion
 - [x] Ungraded App Item : [IMPORTANT] Have questions, issues or ideas? Join our Community!
 #### Lecture Notes (Optional)
-- [ ] Reading : Lecture Notes W1
+- [x] Reading : Lecture Notes W1
 #### Quiz: Auto-correct and Minimum Edit Distance
-- [ ] Practice Quiz : Auto-correct and Minimum Edit Distance
+- [x] Practice Quiz : Auto-correct and Minimum Edit Distance
 #### Assignment: Autocorrect
 - [ ] Reading : (Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace
 - [ ] Programming Assignment : Autocorrect
