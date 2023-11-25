@@ -172,13 +172,13 @@
 #### Quiz: Auto-correct and Minimum Edit Distance
 - [x] Practice Quiz : Auto-correct and Minimum Edit Distance
 #### Assignment: Autocorrect
-- [ ] Reading : (Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace
+- [x] Reading : (Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace
 - [ ] Programming Assignment : Autocorrect
 ### Week 2
 #### Lecture: Part of Speech Tagging
-- [ ] Video : Week Introduction
-- [ ] Video : Part of Speech Tagging
-- [ ] Reading : Part of Speech Tagging
+- [x] Video : Week Introduction
+- [x] Video : Part of Speech Tagging
+- [x] Reading : Part of Speech Tagging
 - [ ] Lab : Lecture Notebook - Working with text files
 - [ ] Video : Markov Chains
 - [ ] Reading : Markov Chains
