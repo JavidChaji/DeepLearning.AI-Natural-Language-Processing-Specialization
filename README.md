@@ -180,8 +180,8 @@
 - [x] Video : Part of Speech Tagging
 - [x] Reading : Part of Speech Tagging
 - [ ] Lab : Lecture Notebook - Working with text files
-- [ ] Video : Markov Chains
-- [ ] Reading : Markov Chains
+- [x] Video : Markov Chains
+- [x] Reading : Markov Chains
 - [ ] Video : Markov Chains and POS Tags
 - [ ] Reading : Markov Chains and POS Tags
 - [ ] Video : Hidden Markov Models
