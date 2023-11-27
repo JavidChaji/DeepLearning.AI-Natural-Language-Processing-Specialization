@@ -182,8 +182,8 @@
 - [ ] Lab : Lecture Notebook - Working with text files
 - [x] Video : Markov Chains
 - [x] Reading : Markov Chains
-- [ ] Video : Markov Chains and POS Tags
-- [ ] Reading : Markov Chains and POS Tags
+- [x] Video : Markov Chains and POS Tags
+- [x] Reading : Markov Chains and POS Tags
 - [ ] Video : Hidden Markov Models
 - [ ] Reading : Hidden Markov Models
 - [ ] Video : Calculating Probabilities
