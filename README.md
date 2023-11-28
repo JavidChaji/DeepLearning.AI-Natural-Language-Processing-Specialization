@@ -184,8 +184,8 @@
 - [x] Reading : Markov Chains
 - [x] Video : Markov Chains and POS Tags
 - [x] Reading : Markov Chains and POS Tags
-- [ ] Video : Hidden Markov Models
-- [ ] Reading : Hidden Markov Models
+- [x] Video : Hidden Markov Models
+- [x] Reading : Hidden Markov Models
 - [ ] Video : Calculating Probabilities
 - [ ] Reading : Calculating Probabilities
 - [ ] Video : Populating the Transition Matrix
