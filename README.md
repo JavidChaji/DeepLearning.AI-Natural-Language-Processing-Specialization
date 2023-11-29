@@ -186,8 +186,8 @@
 - [x] Reading : Markov Chains and POS Tags
 - [x] Video : Hidden Markov Models
 - [x] Reading : Hidden Markov Models
-- [ ] Video : Calculating Probabilities
-- [ ] Reading : Calculating Probabilities
+- [x] Video : Calculating Probabilities
+- [x] Reading : Calculating Probabilities
 - [ ] Video : Populating the Transition Matrix
 - [ ] Reading : Populating the Transition Matrix
 - [ ] Video : Populating the Emission Matrix
