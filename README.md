@@ -188,8 +188,8 @@
 - [x] Reading : Hidden Markov Models
 - [x] Video : Calculating Probabilities
 - [x] Reading : Calculating Probabilities
-- [ ] Video : Populating the Transition Matrix
-- [ ] Reading : Populating the Transition Matrix
+- [x] Video : Populating the Transition Matrix
+- [x] Reading : Populating the Transition Matrix
 - [ ] Video : Populating the Emission Matrix
 - [ ] Reading : Populating the Emission Matrix
 - [ ] Lab : Lecture Notebook - Working with tags and Numpy
