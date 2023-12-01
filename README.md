@@ -190,8 +190,8 @@
 - [x] Reading : Calculating Probabilities
 - [x] Video : Populating the Transition Matrix
 - [x] Reading : Populating the Transition Matrix
-- [ ] Video : Populating the Emission Matrix
-- [ ] Reading : Populating the Emission Matrix
+- [x] Video : Populating the Emission Matrix
+- [x] Reading : Populating the Emission Matrix
 - [ ] Lab : Lecture Notebook - Working with tags and Numpy
 - [ ] Video : The Viterbi Algorithm
 - [ ] Reading : The Viterbi Algorithm
