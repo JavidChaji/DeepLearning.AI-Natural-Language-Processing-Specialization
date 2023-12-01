@@ -193,8 +193,8 @@
 - [x] Video : Populating the Emission Matrix
 - [x] Reading : Populating the Emission Matrix
 - [ ] Lab : Lecture Notebook - Working with tags and Numpy
-- [ ] Video : The Viterbi Algorithm
-- [ ] Reading : The Viterbi Algorithm
+- [x] Video : The Viterbi Algorithm
+- [x] Reading : The Viterbi Algorithm
 - [ ] Video : Viterbi: Initialization
 - [ ] Reading : Viterbi: Initialization
 - [ ] Video : iterbi: Forward Pass
