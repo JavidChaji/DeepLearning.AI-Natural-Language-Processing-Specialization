@@ -195,8 +195,8 @@
 - [ ] Lab : Lecture Notebook - Working with tags and Numpy
 - [x] Video : The Viterbi Algorithm
 - [x] Reading : The Viterbi Algorithm
-- [ ] Video : Viterbi: Initialization
-- [ ] Reading : Viterbi: Initialization
+- [x] Video : Viterbi: Initialization
+- [x] Reading : Viterbi: Initialization
 - [ ] Video : iterbi: Forward Pass
 - [ ] Reading : Viterbi: Forward Pass
 - [ ] Video : Viterbi: Backward Pass
