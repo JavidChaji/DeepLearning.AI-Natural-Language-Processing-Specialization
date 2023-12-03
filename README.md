@@ -197,8 +197,8 @@
 - [x] Reading : The Viterbi Algorithm
 - [x] Video : Viterbi: Initialization
 - [x] Reading : Viterbi: Initialization
-- [ ] Video : iterbi: Forward Pass
-- [ ] Reading : Viterbi: Forward Pass
+- [x] Video : Viterbi: Forward Pass
+- [x] Reading : Viterbi: Forward Pass
 - [ ] Video : Viterbi: Backward Pass
 - [ ] Reading : Viterbi: Backward Pass
 - [ ] Video : Week Conclusion
