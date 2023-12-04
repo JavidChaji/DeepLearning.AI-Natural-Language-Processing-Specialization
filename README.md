@@ -201,7 +201,7 @@
 - [x] Reading : Viterbi: Forward Pass
 - [x] Video : Viterbi: Backward Pass
 - [x] Reading : Viterbi: Backward Pass
-- [ ] Video : Week Conclusion
+- [x] Video : Week Conclusion
 #### Lecture Notes (Optional)
 - [ ] Reading : Lecture Notes W2
 #### Practice Quiz
