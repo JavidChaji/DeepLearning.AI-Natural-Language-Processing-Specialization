@@ -199,8 +199,8 @@
 - [x] Reading : Viterbi: Initialization
 - [x] Video : Viterbi: Forward Pass
 - [x] Reading : Viterbi: Forward Pass
-- [ ] Video : Viterbi: Backward Pass
-- [ ] Reading : Viterbi: Backward Pass
+- [x] Video : Viterbi: Backward Pass
+- [x] Reading : Viterbi: Backward Pass
 - [ ] Video : Week Conclusion
 #### Lecture Notes (Optional)
 - [ ] Reading : Lecture Notes W2
