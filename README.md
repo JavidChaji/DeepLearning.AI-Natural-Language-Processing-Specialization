@@ -205,7 +205,7 @@
 #### Lecture Notes (Optional)
 - [x] Reading : Lecture Notes W2
 #### Practice Quiz
-- [ ] Practice Quiz : Part of Speech Tagging
+- [x] Practice Quiz : Part of Speech Tagging
 #### Assignment: Part of Speech Tagging
 - [ ] Programming Assignment : Part of Speech Tagging
 ### Week 3
