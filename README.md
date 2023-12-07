@@ -203,7 +203,7 @@
 - [x] Reading : Viterbi: Backward Pass
 - [x] Video : Week Conclusion
 #### Lecture Notes (Optional)
-- [ ] Reading : Lecture Notes W2
+- [x] Reading : Lecture Notes W2
 #### Practice Quiz
 - [ ] Practice Quiz : Part of Speech Tagging
 #### Assignment: Part of Speech Tagging
