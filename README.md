@@ -211,8 +211,8 @@
 ### Week 3
 #### Lecture: Autocomplete
 - [x] Video : Week Introduction
-- [ ] Video : N-Grams: Overview
-- [ ] Reading : N-Grams: Overview
+- [x] Video : N-Grams: Overview
+- [x] Reading : N-Grams: Overview
 - [ ] Video : N-grams and Probabilities
 - [ ] Reading : N-grams and Probabilities
 - [ ] Video : Sequence Probabilities
