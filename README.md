@@ -210,7 +210,7 @@
 - [ ] Programming Assignment : Part of Speech Tagging
 ### Week 3
 #### Lecture: Autocomplete
-- [ ] Video : Week Introduction
+- [x] Video : Week Introduction
 - [ ] Video : N-Grams: Overview
 - [ ] Reading : N-Grams: Overview
 - [ ] Video : N-grams and Probabilities
