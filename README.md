@@ -213,8 +213,8 @@
 - [x] Video : Week Introduction
 - [x] Video : N-Grams: Overview
 - [x] Reading : N-Grams: Overview
-- [ ] Video : N-grams and Probabilities
-- [ ] Reading : N-grams and Probabilities
+- [x] Video : N-grams and Probabilities
+- [x] Reading : N-grams and Probabilities
 - [ ] Video : Sequence Probabilities
 - [ ] Reading : Sequence Probabilities
 - [ ] Video : Starting and Ending Sentences
