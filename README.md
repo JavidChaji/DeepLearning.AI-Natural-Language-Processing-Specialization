@@ -215,8 +215,8 @@
 - [x] Reading : N-Grams: Overview
 - [x] Video : N-grams and Probabilities
 - [x] Reading : N-grams and Probabilities
-- [ ] Video : Sequence Probabilities
-- [ ] Reading : Sequence Probabilities
+- [x] Video : Sequence Probabilities
+- [x] Reading : Sequence Probabilities
 - [ ] Video : Starting and Ending Sentences
 - [ ] Reading : Starting and Ending Sentences
 - [ ] Lab : Lecture notebook: Corpus preprocessing for N-grams
