@@ -217,8 +217,8 @@
 - [x] Reading : N-grams and Probabilities
 - [x] Video : Sequence Probabilities
 - [x] Reading : Sequence Probabilities
-- [ ] Video : Starting and Ending Sentences
-- [ ] Reading : Starting and Ending Sentences
+- [x] Video : Starting and Ending Sentences
+- [x] Reading : Starting and Ending Sentences
 - [ ] Lab : Lecture notebook: Corpus preprocessing for N-grams
 - [ ] Video : The N-gram Language Model
 - [ ] Reading : The N-gram Language Model
