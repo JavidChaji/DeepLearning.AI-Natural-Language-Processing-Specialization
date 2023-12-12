@@ -220,8 +220,8 @@
 - [x] Video : Starting and Ending Sentences
 - [x] Reading : Starting and Ending Sentences
 - [ ] Lab : Lecture notebook: Corpus preprocessing for N-grams
-- [ ] Video : The N-gram Language Model
-- [ ] Reading : The N-gram Language Model
+- [x] Video : The N-gram Language Model
+- [x] Reading : The N-gram Language Model
 - [ ] Video : Language Model Evaluation
 - [ ] Lab : Lecture notebook: Building the language model
 - [ ] Reading : Language Model Evaluation
