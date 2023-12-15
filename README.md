@@ -222,7 +222,7 @@
 - [ ] Lab : Lecture notebook: Corpus preprocessing for N-grams
 - [x] Video : The N-gram Language Model
 - [x] Reading : The N-gram Language Model
-- [ ] Video : Language Model Evaluation
+- [x] Video : Language Model Evaluation
 - [ ] Lab : Lecture notebook: Building the language model
 - [ ] Reading : Language Model Evaluation
 - [ ] Video : Out of Vocabulary Words
