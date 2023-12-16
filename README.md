@@ -224,7 +224,7 @@
 - [x] Reading : The N-gram Language Model
 - [x] Video : Language Model Evaluation
 - [ ] Lab : Lecture notebook: Building the language model
-- [ ] Reading : Language Model Evaluation
+- [x] Reading : Language Model Evaluation
 - [ ] Video : Out of Vocabulary Words
 - [ ] Reading : Out of Vocabulary Words
 - [ ] Video : Smoothing
