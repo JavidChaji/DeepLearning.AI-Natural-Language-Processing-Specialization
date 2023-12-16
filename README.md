@@ -225,8 +225,8 @@
 - [x] Video : Language Model Evaluation
 - [ ] Lab : Lecture notebook: Building the language model
 - [x] Reading : Language Model Evaluation
-- [ ] Video : Out of Vocabulary Words
-- [ ] Reading : Out of Vocabulary Words
+- [x] Video : Out of Vocabulary Words
+- [x] Reading : Out of Vocabulary Words
 - [ ] Video : Smoothing
 - [ ] Reading : Smoothing
 - [ ] Lab : Lecture notebook: Language model generalization
