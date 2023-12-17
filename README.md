@@ -227,8 +227,8 @@
 - [x] Reading : Language Model Evaluation
 - [x] Video : Out of Vocabulary Words
 - [x] Reading : Out of Vocabulary Words
-- [ ] Video : Smoothing
-- [ ] Reading : Smoothing
+- [x] Video : Smoothing
+- [x] Reading : Smoothing
 - [ ] Lab : Lecture notebook: Language model generalization
 - [ ] Video : Week Summary
 - [ ] Reading : Week Summary
