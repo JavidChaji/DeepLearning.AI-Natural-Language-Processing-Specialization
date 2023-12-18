@@ -230,8 +230,8 @@
 - [x] Video : Smoothing
 - [x] Reading : Smoothing
 - [ ] Lab : Lecture notebook: Language model generalization
-- [ ] Video : Week Summary
-- [ ] Reading : Week Summary
+- [x] Video : Week Summary
+- [x] Reading : Week Summary
 - [ ] Video : Week Conclusion
 #### Lecture Notes (Optional)
 - [ ] Reading : Lecture Notes W3
