@@ -232,7 +232,7 @@
 - [ ] Lab : Lecture notebook: Language model generalization
 - [x] Video : Week Summary
 - [x] Reading : Week Summary
-- [ ] Video : Week Conclusion
+- [x] Video : Week Conclusion
 #### Lecture Notes (Optional)
 - [ ] Reading : Lecture Notes W3
 #### Practice Quiz
